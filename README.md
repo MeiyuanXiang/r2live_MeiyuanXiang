@@ -8,7 +8,8 @@ https://github.com/hku-mars/r2live
 1. Ubuntu（测试了Ubuntu16.04.5、Ubuntu18.04）  
 2. ROS (测试了kinetic、melodic)  
 3. Ceres Solver（测试ceres-solver-1.14.0）  
-4. livox_ros_driver  
+4. Eigen（测试了Eigen3.3.4）  
+5. livox_ros_driver  
 
 # 编译
 1. 下载源码 git clone https://github.com/MeiyuanXiang/r2live_MeiyuanXiang.git  
